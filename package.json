@@ -31,7 +31,7 @@
     "chai": "^4.1.2",
     "circular-json": "^0.5.1",
     "farmhash": "^2.0.4",
-    "fast-json-stringify": "^1.1.0",
+    "fast-json-stringify": "^1.8.0",
     "md5": "^2.2.1",
     "prettier": "^1.10.2",
     "rimraf": "^2.4.4",
